@@ -1,8 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
 
-int main()
-{
+
    class PrintStudentDetailsUsingClasses
 {
     public static void main(String s[])
@@ -51,5 +48,4 @@ class Student
     String address;
     String mobile;
 }
-    return 0;
-}
+ 
